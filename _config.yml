@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Exercise 09, Benjamin O'Buch & Katherine McKinley
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is our final excersize for Comp110! We are working together to figure out how more coding assignments
